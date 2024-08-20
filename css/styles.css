@@ -1,0 +1,13 @@
+.this-weekend-button {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #14bf89;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.this-weekend-button:hover {
+  background-color: #1599c1;
+  color: white;
+}
